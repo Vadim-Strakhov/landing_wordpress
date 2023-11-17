@@ -1,9 +1,9 @@
 {
-  "homepage":"https://vadim-strakhov.github.io/landing_wordpress",
+  "homepage": "https://vadim-strakhov.github.io/landing_wordpress",
   "devDependencies": {
     "gh-pages": "^6.0.0"
   },
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d src"
   }
 }
