@@ -1,4 +1,4 @@
-## Landing page по интенсиву
+## Лэндинг по интенсиву
 
 - ### Проект доступен по ссылке - https://vadim-strakhov.github.io/landing_wordpress/
 - ### Технологии `css`, `html`
